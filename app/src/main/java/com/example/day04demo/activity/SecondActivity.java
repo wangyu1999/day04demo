@@ -35,7 +35,7 @@ public class SecondActivity extends AppCompatActivity {
         tab.setupWithViewPager(vp);
         vp.setAdapter(myPagerAdapter);
     }
-
+//共和国海关
     private void initData() {
         fragmentlist = new ArrayList<>();
         fragmentlist.add(new ShoucangFragment());
